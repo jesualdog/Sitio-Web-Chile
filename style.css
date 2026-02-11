@@ -62,7 +62,7 @@ body {
 
 .botones-banner{
   display: flex;
-  padding: 5px 64px;
+  padding: 5px 50px;
   justify-content: flex-end;
   border-bottom: 1px solid #9CA3AF;
   gap: 10px;
@@ -71,15 +71,14 @@ body {
 .botones-banner a{
   text-decoration: none;
   text-align: center;
-
 }
 
 .btn-banner{
-  width: 250px;
+  width: 200px;
   background-color: #ffffff;
   color: #262626;
   border: 2px solid #B3842D;
-  padding: 25px 0;
+  padding: 20px 0;
   font-weight: 600;
   font-size: 20px;
   transition: all 0.3s ease;
@@ -128,8 +127,8 @@ body {
 .btn-cotiza{
   color: #262626;
   border: 2px solid #B3842D;
-  width: 400px;
-  padding: 25px 0;
+  width: 300px;
+  padding: 20px 0;
   font-size: 16px;
   font-weight: 600;
   cursor: pointer;
