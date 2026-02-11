@@ -223,7 +223,7 @@ body {
 
   /* ---------- BANNER ---------- */
   .img-banner {
-    content: url("/imagenes/Sail_Banner_Mobile.jpg");
+    content: url("imagenes/Sail_Banner_Mobile.jpg");
     width: 100%;
     height: auto;
   }
